@@ -18,9 +18,6 @@ A Solidity Smart Contract that uses Ether management functions to implement feat
 
 ###### Deploy Smart Contract
 
-![Deploy 1](https://github.com/KSohi-max/JointSavings/blob/main/Images/Deploy1.png)
-
-
 ![Deploy 2](https://github.com/KSohi-max/JointSavings/blob/main/Images/Deploy2.png)
 
 ###### Deposit Funds
